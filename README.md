@@ -2,6 +2,7 @@
 
 ## About Me
 🎓 Recently graduated with a B.Tech degree
+
 💻 Interested in Full Stack Development and Software Development
 
 🌱 Currently learning and building projects using:
