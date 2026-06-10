@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Prakriti Tripathi 👋
 
-<!--
-**Prakriti-2607/Prakriti-2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 Recently graduated with a B.Tech degree
+💻 Interested in Full Stack Development and Software Development
 
-Here are some ideas to get you started:
+🌱 Currently learning and building projects using:
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Working on improving my development skills through hands-on projects and coding practice.
+
+## Skills
+
+### Programming Languages
+- JavaScript
+- Python
+- Java
+  
+### Web Development
+- HTML
+- CSS
+- React
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- SQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+## Current Focus
+- Building full-stack projects
+- Learning modern web development
+- Strengthening Data Structures and Algorithms
+- Preparing for Software Developer roles
+
+## Projects
+Projects will be added here as I continue building and learning.
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/prakriti-tripathi-b86b39314
