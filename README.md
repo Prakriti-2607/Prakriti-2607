@@ -1,11 +1,11 @@
 # Hi, I'm Prakriti Tripathi 👋
 
 ## About Me
-🎓 Recently graduated with a B.Tech degree
+ Recently graduated with a B.Tech degree
 
-💻 Interested in Full Stack Development and Software Development
+Interested in Full Stack Development and Software Development
 
-🌱 Currently learning and building projects using:
+ Currently learning and building projects using:
 - HTML
 - CSS
 - JavaScript
@@ -14,7 +14,7 @@
 - Express.js
 - MongoDB
 
-🚀 Working on improving my development skills through hands-on projects and coding practice.
+Working on improving my development skills through hands-on projects and coding practice.
 
 ## Skills
 
