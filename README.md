@@ -1,11 +1,10 @@
-# Hi, I'm Prakriti Tripathi 👋
+# Hi, I'm Prakriti Tripathi
 
 ## About Me
- Recently graduated with a B.Tech degree
+I am a B.Tech graduate with a strong interest in Full Stack Development and Software Development.
+I enjoy building practical applications, learning modern technologies, and improving my problem-solving skills through hands-on projects and coding practice.
 
-Interested in Full Stack Development and Software Development
-
- Currently learning and building projects using:
+### Currently Working With
 - HTML
 - CSS
 - JavaScript
@@ -14,15 +13,12 @@ Interested in Full Stack Development and Software Development
 - Express.js
 - MongoDB
 
-Working on improving my development skills through hands-on projects and coding practice.
-
 ## Skills
-
 ### Programming Languages
 - JavaScript
 - Python
 - Java
-  
+
 ### Web Development
 - HTML
 - CSS
@@ -30,23 +26,27 @@ Working on improving my development skills through hands-on projects and coding 
 - Node.js
 - Express.js
 
-### Database
+### Databases
 - MongoDB
 - SQL
 
-### Tools
+### Tools & Technologies
 - Git
 - GitHub
 - VS Code
 
 ## Current Focus
-- Building full-stack projects
-- Learning modern web development
+- Building full-stack web applications
+- Developing projects using React and Node.js
 - Strengthening Data Structures and Algorithms
-- Preparing for Software Developer roles
+- Improving problem-solving and software development skills
+- Preparing for Software Developer and Full Stack Developer roles
 
 ## Projects
-Projects will be added here as I continue building and learning.
+### ShopSphere 2.0
+A full-stack e-commerce web application built with React, Node.js, Express.js, and MongoDB.
+Features include authentication, product browsing, search and filtering, cart and wishlist management, checkout, address management, saved payment methods, order history, order cancellation, and simulated order tracking.
+[View ShopSphere 2.0](https://github.com/Prakriti-2607/ShopSphere-2.0)
 
 ## Connect With Me
-LinkedIn: https://www.linkedin.com/in/prakriti-tripathi-b86b39314
+- LinkedIn: https://www.linkedin.com/in/prakriti-tripathi-b86b39314
